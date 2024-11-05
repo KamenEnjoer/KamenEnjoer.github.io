@@ -2,17 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Labora</title>
-    <link>https://KamenEnjoer.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Labora</description>
     <generator>Hugo -- 0.136.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Oct 2024 10:58:10 +0200</lastBuildDate>
-    <atom:link href="https://KamenEnjoer.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Oct 2024 11:57:35 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>naujas Puslapis 3</title>
+      <link>http://localhost:1313/posts/naujas-puslapis-3/</link>
+      <pubDate>Tue, 29 Oct 2024 11:57:35 +0200</pubDate>
+      <guid>http://localhost:1313/posts/naujas-puslapis-3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Naujas Puslapis 2</title>
+      <link>http://localhost:1313/posts/naujas-puslapis-2/</link>
+      <pubDate>Tue, 29 Oct 2024 11:20:21 +0200</pubDate>
+      <guid>http://localhost:1313/posts/naujas-puslapis-2/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/a.png&#34; alt=&#34;Paveikslėlis:&#34;  /&gt;
+&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-powershell&#34; data-lang=&#34;powershell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;//To write &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello world&amp;#34;&lt;/span&gt; you need line&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;:&lt;/span&gt; \n
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;printf(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Naujas puslapis</title>
-      <link>https://KamenEnjoer.github.io/posts/naujas1/</link>
+      <link>http://localhost:1313/posts/naujas1/</link>
       <pubDate>Tue, 29 Oct 2024 10:58:10 +0200</pubDate>
-      <guid>https://KamenEnjoer.github.io/posts/naujas1/</guid>
+      <guid>http://localhost:1313/posts/naujas1/</guid>
       <description></description>
     </item>
   </channel>
